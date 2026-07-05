@@ -1,0 +1,51 @@
+{
+	"logos": {
+		"logger": {
+			"oscript.app.jeweltools.external": {
+				"level": "DEBUG",
+				"stringlayout": "%Сообщение%",
+				"appenders": "consoledebug"
+			},
+			"oscript.app.jeweltools": {
+				"level": "DEBUG",
+				"stringlayout": "%Уровень%: %ДатаВремя% - %Сообщение%",
+				"appenders": "consoledebug"
+			}
+		},
+		"appender": {
+			"consoledebug": {
+				"type": "ВыводЛогаВКонсоль",
+				"level": "DEBUG"
+			}
+		}
+	},
+	"Gitsync": {
+		"GITSYNC_VERBOSE": "true",
+		"GITSYNC_DISABLE_AUTO_SRC": "true",
+		"GITSYNC_SORT_SUBORDINATE_OBJECTS": "forms,templates,commands,operations,urlTemplates,methods,attributes,tabularSections,subsystems"
+	},
+	"ИсключениеПриОчисткеКаталогаПроекта": [
+		"autumn-properties.json"
+	],
+	"ВременныйКаталог": "Путь\\к\\временному\\каталогу",
+	"Хранилище": {
+		"Путь": "Путь\\к\\каталогу\\хранилища",
+		"Логин": "",
+		"Пароль": ""
+	},
+	"БазаПодключеннаяКХранилищу": {
+		"Серверная": {
+			"Используется": false,
+			"ИмяСервера": "",
+			"ИмяБазы": ""
+		},
+		"Файловая": {
+			"Используется": true,
+			"Путь": "Путь\\к\\каталогу\\файловой\\базы"
+		},
+		"Авторизация": {
+			"Логин": "Администратор",
+			"Пароль": ""
+		}
+	}
+}
