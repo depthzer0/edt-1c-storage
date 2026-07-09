@@ -193,3 +193,7 @@ https://github.com/oscript-library/gitsync#настройка-плагинов-�
 
 
 2. jeweltools требует наличия файла autumn-properties.json в рабочем каталоге (cwd). Это недоработка, как и тот факт, что для запуска любой утилиты требуется инициализация всех желудей, что очевидно является избыточным, например для вызова export. Запланировано...
+
+## Публикации
+
+<img src="https://infostart.ru/bitrix/templates/sandbox_empty/assets/tpl/abo/img/logo.svg" alt="Лого инфостарт" width="auto" height="auto"> [Синхронизация проекта 1C:EDT с хранилищем конфигурации](https://infostart.ru/public/2732922/)
