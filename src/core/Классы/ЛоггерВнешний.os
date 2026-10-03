@@ -1,4 +1,4 @@
 &Аннотация("ЛоггерВнешний")
-&Лог("oscript.app.jeweltools.external")
+&Лог("oscript.app.edt-storage.external")
 Процедура ПриСозданииОбъекта()
 КонецПроцедуры
